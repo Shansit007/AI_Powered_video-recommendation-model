@@ -146,7 +146,7 @@ We have also added a simple interactive frontend to visualize the personalized a
 * Dynamic, interaction-driven **personalized feed**.
 * Demo-ready: randomized interactions simulate real app behavior.
 * Easy to extend to graph-based or neural network recommendations later.
-
+* Postman Collection fully working, ready to use just need to import & run the backend.
 
 ## Future Enhancements
 
